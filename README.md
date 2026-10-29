@@ -1,4 +1,4 @@
-# Custom Malloc (Bucket Implementation)
+# Custom Malloc (Linked-List Implementation)
 
 This project is a custom implementation of the standard C memory allocation library (`malloc`, `calloc`, `realloc`, and `free`).
 
