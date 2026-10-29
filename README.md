@@ -2,7 +2,7 @@
 
 This project is a custom implementation of the standard C memory allocation library (`malloc`, `calloc`, `realloc`, and `free`).
 
-It relies on the `mmap` (and `munmap`) system calls and uses a **Segregated Free List** architecture (commonly known as **Buckets**) to ensure optimal allocation and deallocation performance.
+It relies on the `mmap` (and `munmap`) system calls and uses a **Linked-List** architecture to ensure optimal allocation and deallocation performance.
 
 ## Features
 
